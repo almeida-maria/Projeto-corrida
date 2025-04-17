@@ -1,1 +1,13 @@
-
+html, body {
+  margin: 0;
+  padding: 0;
+  background: url('maria.jpg');
+}
+canvas {
+  display: block;
+}
+footer{
+  font-family: monospace;
+  font-size: 22px;
+  font-weight: bolder;
+}
